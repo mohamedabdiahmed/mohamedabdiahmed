@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
  Developer. Speaker. Teacher.
 ----------------------------
 
- Mohamed Abdi Ahmed is a JavaScript Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
+ Mohamed Abdi Ahmed is a .NET Developer, Speaker, and Teacher with a passion for teaching developers through content. He is a full-time Technical Content Creator with years of experience in Software Development and Developer Advocacy.
 
 
 Here are some ideas to get you started:
