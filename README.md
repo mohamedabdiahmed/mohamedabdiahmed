@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 
 
-* 🌍  I'm based in JigJiga, SomaliRegion
+* 🌍  I'm based in JigJiga, Ethiopia
 * 🧠  I'm learning everything  TypeScript || .NET Core
 * 😄 Pronouns: he/him 
 
